@@ -1,0 +1,2 @@
+Let us merge the file from developer2 into developer1. 
+let me try this and see what happens
